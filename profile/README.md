@@ -1,0 +1,17 @@
+# Forward the Individual
+
+Thesis is a venture studio building freedom tech.
+
+Humanity is held back, front run, censored, and surveilled by governments, ISPs, data brokers, and big tech. We need to hit reset on today's power structures.
+
+If that sounds like you, [reach out](mailto:work@thesis.co)
+
+## Our Work
+
+We're the builders behind
+
+* [tBTC](https://tbtc.network), censorship-resitant Bitcoin on Ethereum
+* [Fold](https://foldapp.com), the best way to orange-pill your friends
+* [Keep](https://keep.network), the threshold cryptography network on Ethereum
+* [Saddle](https://saddle.finance), a pegged-asset automated market maker
+* [Tally](https://tally.cash), the user-owned and operated Web3 wallet

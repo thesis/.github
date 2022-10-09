@@ -14,4 +14,4 @@ We're the builders behind
 * [Fold](https://foldapp.com), the best way to orange-pill your friends
 * [Keep](https://keep.network), the threshold cryptography network on Ethereum
 * [Saddle](https://saddle.finance), a pegged-asset automated market maker
-* [Tally](https://tally.cash), the user-owned and operated Web3 wallet
+* [Tally Ho](https://tally.cash), the user-owned and operated Web3 wallet

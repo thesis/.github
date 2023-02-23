@@ -10,8 +10,9 @@ If that sounds like you, [reach out](mailto:work@thesis.co)
 
 We're the builders behind
 
-* [tBTC](https://tbtc.network), censorship-resitant Bitcoin on Ethereum
+* [tBTC](https://tbtc.network), censorship-resistant Bitcoin on Ethereum
 * [Fold](https://foldapp.com), the best way to orange-pill your friends
+* [Taho](https://taho.xyz), the user-owned and operated Web3 wallet
 * [Keep](https://keep.network), the threshold cryptography network on Ethereum
 * [Saddle](https://saddle.finance), a pegged-asset automated market maker
-* [Tally Ho](https://tally.cash), the user-owned and operated Web3 wallet
+

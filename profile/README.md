@@ -15,4 +15,5 @@ We're the builders behind
 * [Taho](https://taho.xyz), the user-owned and operated Web3 wallet
 * [Keep](https://keep.network), the threshold cryptography network on Ethereum
 * [Saddle](https://saddle.finance), a pegged-asset automated market maker
-
+* [Embody](https://embody.space), a privacy and cycle-forward menstrual health app
+* [Etcher](https://etcher.xyz), beautiful tools for the creator economy

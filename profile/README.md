@@ -4,7 +4,7 @@ Thesis is a venture studio building freedom tech.
 
 Humanity is held back, front run, censored, and surveilled by governments, ISPs, data brokers, and big tech. We need to hit reset on today's power structures.
 
-If that sounds like you, [reach out](mailto:work@thesis.co)
+If that sounds like you, [reach out](mailto:work@thesis.co).
 
 ## Our Work
 

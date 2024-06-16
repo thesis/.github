@@ -11,6 +11,7 @@ If that sounds like you, [reach out](mailto:work@thesis.co).
 We're the builders behind
 
 * [tBTC](https://tbtc.network), censorship-resistant Bitcoin on Ethereum
+* [Mezo](https://mezo.org), an economic layer for Bitcoin
 * [Fold](https://foldapp.com), the best way to orange-pill your friends
 * [Taho](https://taho.xyz), the user-owned and operated Web3 wallet
 * [Keep](https://keep.network) ( now [Threshold](https://threshold.network)) , the threshold cryptography network on Ethereum
